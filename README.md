@@ -1,5 +1,4 @@
-### Hi there 👋
-### :man_technologist: Olá, eu sou o Jeruza Moura! Bem vindo ao meu GitHub 👋 
+### 👩‍💻: Olá, eu sou o Jeruza Moura! Bem vindo ao meu GitHub 👋 
 
 ||Desenvolvedor Java Full Stack Jr||
 
